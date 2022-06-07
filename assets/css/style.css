@@ -77,7 +77,7 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #999999;
+  color: ##2A378D;
   line-height: 28px;
 }
 
@@ -344,7 +344,7 @@ nav ul li a {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #2A378D;
 }
 
 #about .div-img-bg .about-img img {
@@ -358,8 +358,9 @@ nav ul li a {
 }
 
 #about .about-descr .p-heading {
-  font-family: 'Playfair Display', serif;
-  font-size: 28px;
+      font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 28px;
   text-align: left;
 }
 
@@ -386,7 +387,7 @@ nav ul li a {
   margin: 10px 0;
   position: relative;
   font-size: 13px;
-  color: #292929;
+  color: #2A378D;
   letter-spacing: 0.1em;
   font-weight: 500;
   text-transform: uppercase;
@@ -427,7 +428,7 @@ nav ul li a {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #b8a07e;
+  background-color: #2A378D;
 }
 
 .owl-nav {
@@ -465,7 +466,7 @@ nav ul li a {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: #2A378D;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -507,11 +508,11 @@ nav ul li a {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #b8a07e;
+  color: #2A378D;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover, #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #cab89f;
+  color: #2A378D;
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
