@@ -244,7 +244,7 @@ nav ul li a {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #fff;
+  color: #1E1E1E;
 }
 
 .hero-content p {
@@ -253,7 +253,7 @@ nav ul li a {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #fff;
+  color: #1E1E1E;
   font-weight: 500;
 }
 
@@ -263,7 +263,7 @@ nav ul li a {
 }
 
 .hero-content .list-social li i {
-  color: #fff;
+  color: #1E1E1E;
   font-size: 15px;
 }
 
