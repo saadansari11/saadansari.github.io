@@ -246,11 +246,11 @@ nav ul li a {
 }
 
 .hero-content h1 {
-  font-size: 40px;
-  font-weight: 700;
-  margin-bottom: 10px;
-  text-transform: uppercase;
-  color: #1E1E1E;
+font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: #000000;
 }
 
 .hero-content p {
