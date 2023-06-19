@@ -27,12 +27,10 @@ body {
 h1, h2, h4, h5, h6 {
   margin: 0;
 }
-
-dl, ol, ul {
-    margin-top: 8rem;
-    margin-bottom: 1rem;
+list-unstyled list-social {
+margin-top: 8rem;
 }
-
+  
 h3 {
     color: #595858;
     font-weight: 400;
